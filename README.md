@@ -1,4 +1,4 @@
-Abstraction and Reasoning Corpus (ARC) AGI 2: Resources, Tools, and Exploration Journey
+# Abstraction and Reasoning Corpus (ARC) AGI 2: Resources, Tools, and Exploration Journey
 
 > “Pushing the boundaries of understanding intelligence through the lens of abstraction and reasoning.”
 
