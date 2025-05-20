@@ -2,7 +2,7 @@
 
 > “Pushing the boundaries of understanding intelligence through the lens of abstraction and reasoning.”
 
-In my pursuit of understanding intelligence and contributing to Artificial General Intelligence (AGI), I have put together this repository as a living collection of research papers centered on the Abstraction and Reasoning Corpus (ARC). It's a space that reflects my own exploration: both the excitement and the challenges: while aiming to serve as a resource for others passionate about this field. 
+In my pursuit of understanding intelligence and contributing to Artificial General Intelligence (AGI), I have put together this repository as a living collection of research papers centered on the Abstraction and Reasoning Corpus (ARC). It is a space that reflects my own exploration: both the excitement and the challenges: while aiming to serve as a resource for others passionate about this field. 
 
 This effort is a small piece of a larger pursuit I am working toward: building AI systems that do not just assist research but actively drive scientific discovery. By curating these papers and sharing tools and opportunities, I hope to connect ideas, people, and resources, all unified under the goal of advancing our grasp of reasoning and generalization in machines. It is a journey in progress, and I am eager to see it grow with input from the community, and also from my own work.
 
